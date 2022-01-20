@@ -1,0 +1,12 @@
+name = "inventory"
+type = "webpack"
+
+account_id = "51c5e20137d58f865a7e6997853ace68"
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2022-01-18"
+
+kv_namespaces = [
+ { binding = "kv", id = "32a359de6f294c93ba67d89d776f7cc0", preview_id = "f5d99f37c9df4b199e24073f058127ea" }        
+]
