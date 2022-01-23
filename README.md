@@ -1,8 +1,8 @@
-Steps to start a local backend sever:
+# Steps to start a local backend sever:
 
 1. Download wrangler (a tool used for managing Cloudflare Workers project). 
 
-$ npm i @cloudflare/wrangler -g
+`$ npm i @cloudflare/wrangler -g`
 
 2. Download the project and navigate to the generated directory.
 
